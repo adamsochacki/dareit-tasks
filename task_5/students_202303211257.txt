@@ -1,0 +1,9 @@
+|id |lastname |firstname|email                |city  |age|
+|---|---------|---------|---------------------|------|---|
+|0  |Adam     |Sochacki |asochacki@gmail.com  |Warsaw|35 |
+|1  |Mariusz  |Kowalski |m.kowalski@gmail.com |Cracow|29 |
+|2  |Janusz   |Nowak    |j.nowak@gmail.com    |Lublin|24 |
+|3  |Marian   |Szymańska|m.szymanska@gmail.com|Berlin|27 |
+|4  |Janina   |Krysiak  |j.krysiak@gmail.com  |Paris |22 |
+|5  |Katarzyna|Kot      |k.kot@gmail.com      |Prague|26 |
+
