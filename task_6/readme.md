@@ -1,6 +1,5 @@
-<p align="center">
+<h3 align=”center”>
+    URL to the bucket static page created for the purpose of the task 6:
+    <a href="https://storage.googleapis.com/dareit-task6-storage-bucket/index.html">https://storage.googleapis.com/dareit-task6-storage-bucket/index.html</a>
 
-    <h3>URL to the bucket static page created for the purpose of the task 6: </br>
-    https://storage.googleapis.com/dareit-task6-storage-bucket/index.html</h3>
-
-</p>
+</h3>
