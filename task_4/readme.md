@@ -15,7 +15,6 @@ Steps:
 
 ```sh
 sudo apt update && sudo apt -y install apache2
-sudo systemctl status apache2
 ```
 
 9. Check the status of the Apache server (we want to see if it is active and running nicely)
