@@ -45,7 +45,7 @@ resource "google_sql_database_instance" "dareit" {
   name             = "dareit"
   region           = "us-central1"
   database_version = "POSTGRES_14"
-  root_password    = "Hello_dareit!2023" #do not put your password like that! otherwise guys from security department will find you...
+  root_password    = "*****" #do not put your password like that! otherwise guys from security department will find you...
   settings {
     tier = "db-custom-2-7680"
     password_validation_policy {
@@ -63,5 +63,5 @@ resource "google_sql_database_instance" "dareit" {
 resource "google_sql_user" "user" {
   name     = "dareit_user"
   instance = google_sql_database_instance.dareit.name
-  password = "zX81OpeiR!d1d2w" # never ever do that again! passwords shouldn't be hard encoded in files
+  password = "*****" # never ever do that again! passwords shouldn't be hard encoded in files
 }
