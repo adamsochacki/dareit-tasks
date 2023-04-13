@@ -1,4 +1,8 @@
-# cloud_challenge
-DareIT
+# Task 1
 
-This is readme file that should include details about a project. 
+The goal of the task is to find a command in the documentation to list enabled services in my project.
+
+The command responsible for that is:
+```sh
+gcloud services list
+```
