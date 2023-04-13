@@ -4,13 +4,6 @@ The goal is to setup an environment that uses Terraform, CI/CD and, in my case, 
 
 Steps:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10
+0. Try...
+1. Kubernetes is not a good solution for single home page
+2. Kubernetes can work properly with Terraform but...
